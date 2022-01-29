@@ -12,5 +12,6 @@ export const GlobalStyle = createGlobalStyle`
         font-family: 'Roboto', sans-serif;
         letter-spacing: .6px;
         /* transition: color .2s ease, background .2s ease; */
+        transition: width .3s ease;
     }
 `;

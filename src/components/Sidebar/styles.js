@@ -54,7 +54,7 @@ export const SSearch = styled.div`
         outline: none;
         border: none;
         color: inherit;
-        background: inherit;
+        background: transparent;
     }
     display: flex;
 `;
